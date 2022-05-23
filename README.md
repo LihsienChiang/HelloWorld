@@ -1,4 +1,5 @@
 # HelloWorld
----
-**This is a new branch:readme-edits**
----
+
+**My first repository on GitHub**
+
+I love ☕ 🍵 🍜, and 🏊 🎮.
